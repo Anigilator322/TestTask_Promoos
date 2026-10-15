@@ -1,0 +1,13 @@
+.git
+.idea
+.vs
+.agents
+.codex
+**/bin
+**/obj
+**/TestResults
+tests
+**/*.user
+**/*.suo
+.env
+.env.*

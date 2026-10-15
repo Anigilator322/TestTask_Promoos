@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask_Promoos.API", "TestTask_Promoos.API\TestTask_Promoos.API.csproj", "{668AFCEE-5BA4-4846-9649-E682CBBA8CF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{9EFED484-F658-4AA2-BAD2-7EDD19CE77B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask_Promoos.Tests", "tests\TestTask_Promoos.Tests\TestTask_Promoos.Tests.csproj", "{877920ED-8EE7-4071-86CD-D71E744B80A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668AFCEE-5BA4-4846-9649-E682CBBA8CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668AFCEE-5BA4-4846-9649-E682CBBA8CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668AFCEE-5BA4-4846-9649-E682CBBA8CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668AFCEE-5BA4-4846-9649-E682CBBA8CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877920ED-8EE7-4071-86CD-D71E744B80A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877920ED-8EE7-4071-86CD-D71E744B80A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877920ED-8EE7-4071-86CD-D71E744B80A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877920ED-8EE7-4071-86CD-D71E744B80A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{877920ED-8EE7-4071-86CD-D71E744B80A8} = {9EFED484-F658-4AA2-BAD2-7EDD19CE77B7}
+	EndGlobalSection
+EndGlobal
